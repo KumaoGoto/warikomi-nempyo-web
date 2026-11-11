@@ -1,0 +1,99 @@
+<!doctype html>
+<!-- ブラウザ版わりこみ年表（Flutter の web のひな形。tool/web/README.md）。
+     Flutter の画面は body の中に作られる。読み込みの間は #splash の幕を見せ、最初のフレームのあと lib/web/web_host.dart の hideSplash が下ろす -->
+<html lang="ja">
+<head>
+  <base href="/">
+  <meta charset="utf-8">
+  <!-- Flutter は起動のときにこの meta を自分の値に置き換えるので、同じ値にしておく（幕とゲームで表示の範囲が変わらないように） -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>わりこみ年表</title>
+  <meta name="description" content="歴史の出来事を、年表の正しい位置にわりこませる。日本史・世界史のならべかえクイズ。だいたいで置ける。外すと、忘れない。ブラウザでそのまま遊べます（無料・広告なし）。">
+  <!-- リンクカード（X・LINE などに URL を貼ったときの見出し・説明・絵）。URL は公開の場所の絶対 URL。
+       絵は tool/web/make_og.py が作る（変えたら番号を上げる。同じ名前だと古い絵が出続ける） -->
+  <link rel="canonical" href="https://warikomi-nempyo.kumao.app/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="わりこみ年表">
+  <meta property="og:locale" content="ja_JP">
+  <meta property="og:url" content="https://warikomi-nempyo.kumao.app/">
+  <meta property="og:title" content="わりこみ年表（ブラウザで遊べる）">
+  <meta property="og:description" content="歴史の出来事を、年表の正しい位置にわりこませる。日本史・世界史のならべかえクイズ。だいたいで置ける。外すと、忘れない。">
+  <meta property="og:image" content="https://warikomi-nempyo.kumao.app/og/warikomi-og-1.jpg">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="わりこみ年表の題字と、札を外した瞬間の画面">
+  <meta name="twitter:card" content="summary_large_image">
+  <!-- ホーム画面に置いたとき -->
+  <meta name="theme-color" content="#0B1B2B">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="わりこみ年表">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <style>
+    /* 字の大きさは端末やブラウザの設定で変えない（Flutter は html の字の大きさから倍率を決める。箱からはみ出さないように） */
+    html { font-size: 16px; -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+    html, body { margin: 0; height: 100%; background: #0B1B2B; overscroll-behavior: none;
+      -webkit-user-select: none; user-select: none; -webkit-touch-callout: none; }
+    /* 名前の入力欄（Flutter の隠れた input）は打てるように。親の none を受け継ぐと iPhone の Safari で字が入らないことがある */
+    input, textarea { -webkit-user-select: text; user-select: text; }
+    #splash { position: fixed; inset: 0; z-index: 10; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 16px;
+      background: #0B1B2B;
+      font: 400 14px/1.6 "Hiragino Sans", "Noto Sans JP", sans-serif; color: #EDE6D6; text-align: center;
+      transition: opacity .4s cubic-bezier(.2, .8, .2, 1); }
+    #splash.done { opacity: 0; pointer-events: none; }
+    #splash img { width: 96px; height: 96px; border-radius: 22px; }
+    #splash p { margin: 0; padding: 0 24px; white-space: pre-line; }
+  </style>
+  <script>
+    // 描く細かさ。Android は dpr 2.6〜3.5 の端末が多く、そのままだと重いので 2 までにする（字が主なのでくもぽん・ぷくぱくより細かく描く。
+    // Flutter はここを見て描く大きさを決める）。?dpr=1.5 で試せる（下げるだけ）。iPhone とパソコンはそのまま
+    (function () {
+      var real = window.devicePixelRatio || 1;
+      var want = real;
+      var asked = parseFloat(new URLSearchParams(location.search).get('dpr'));
+      if (asked > 0) {
+        want = Math.min(asked, real);
+      } else if (/Android/.test(navigator.userAgent)) {
+        want = Math.min(real, 2);
+      }
+      if (want !== real) {
+        Object.defineProperty(window, 'devicePixelRatio', { get: function () { return want; }, configurable: true });
+      }
+    })();
+  </script>
+</head>
+<body>
+  <div id="splash">
+    <img src="icons/icon-192.png" alt="" width="96" height="96">
+    <p id="splash-text">読み込み中…</p>
+  </div>
+  <noscript>わりこみ年表を遊ぶには JavaScript を有効にしてください。</noscript>
+  <script>
+    // 組みの印（公開の形では tool/web/stage.py が書く。プログラムは v/<印>/ の箱に入る）
+    window.WARIKOMI_BUILD = 'd101b8b09601';
+    (function () {
+      var text = document.getElementById('splash-text');
+      // 読み込めないまま止まったときに、何が起きているかを伝える（幕が下りれば要素ごと消える）
+      var slow = setTimeout(function () {
+        text.textContent = 'まだ読み込んでいます…\n止まっているときは、開き直してください。';
+      }, 30000);
+      window.warikomiLoadFailed = function () {
+        clearTimeout(slow);
+        text.textContent = '読み込めませんでした。\n通信を確かめて、開き直してください。';
+      };
+    })();
+    // ホーム画面に置ける形: 通信がなくても遊べるように、ファイルを手元に置く（sw.js）。
+    // ゲームが出てから頼む（lib/web/web_host.dart の hideSplash。読み込みと同時に置き始めると、初めての人の通信を奪い合う）
+    window.warikomiRegisterWorker = function () {
+      if ('serviceWorker' in navigator && location.protocol === 'https:') {
+        navigator.serviceWorker.register('sw.js').catch(function (e) { console.warn('[sw]', e); });
+      }
+    };
+  </script>
+  <script src="v/d101b8b09601/flutter_bootstrap.js" async></script>
+</body>
+</html>
