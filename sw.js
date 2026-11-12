@@ -3,7 +3,7 @@
 // 新しい置き場を作って古い置き場を捨てる。中身の変わっていないファイルは古い置き場から移す（更新のたびに全部を取り直さない）。
 // 公開の形（tool/web/stage.py）では、プログラムは版ごとの箱 v/<VERSION>/ に入り、PRECACHE もその場所に書き換わる。
 
-const VERSION = 'e498561f63f0';
+const VERSION = '3846d11ad75a';
 const PRECACHE = {
   'assets/AssetManifest.bin': '68d3d813538cc550',
   'assets/AssetManifest.bin.json': '152780deb0490c4a',
@@ -12,24 +12,24 @@ const PRECACHE = {
   'assets/assets/audio/tap.wav': '8dc282ca3f14656f',
   'assets/assets/audio/wrong.wav': '0318d5c8eeec9845',
   'assets/assets/data/events.json': 'f870e4adb99e263c',
-  'assets/assets/fonts/NotoSansJP-Regular.ttf': 'ae7895da9cee11c1',
-  'assets/assets/fonts/NotoSansJP-SemiBold.ttf': '3bfdaf0e8fedc261',
-  'assets/assets/fonts/ZenOldMincho-Bold.ttf': '07b84db7970745e0',
-  'assets/assets/fonts/ZenOldMincho-Regular.ttf': '6807fd6a1a20cb59',
+  'assets/assets/fonts/NotoSansJP-Regular.ttf': 'bb128be6ad4c41b0',
+  'assets/assets/fonts/NotoSansJP-SemiBold.ttf': '075412dac3194a9d',
+  'assets/assets/fonts/ZenOldMincho-Bold.ttf': '01783ddd98c17d1a',
+  'assets/assets/fonts/ZenOldMincho-Regular.ttf': 'a861c6d2835d7a4c',
   'assets/assets/ranking/ng_words.json': 'e2fdd6e04cfbaa42',
   'assets/fonts/MaterialIcons-Regular.otf': '4be32c1a0f18a0b2',
   'assets/shaders/ink_sparkle.frag': '2dca5ab93d4ec29e',
   'assets/shaders/stretch_effect.frag': 'ab412f07a5b9b50b',
-  'v/e498561f63f0/canvaskit/canvaskit.js': '7361b744487f9826',
-  'v/e498561f63f0/canvaskit/canvaskit.wasm': '6bdfaa51c76845c0',
-  'v/e498561f63f0/flutter_bootstrap.js': '997993cdd0555f07',
+  'v/3846d11ad75a/canvaskit/canvaskit.js': '7361b744487f9826',
+  'v/3846d11ad75a/canvaskit/canvaskit.wasm': '6bdfaa51c76845c0',
+  'v/3846d11ad75a/flutter_bootstrap.js': '997993cdd0555f07',
   'icons/apple-touch-icon.png': '5405d6ab9e0c9a4d',
   'icons/favicon-32.png': '2268911fa6fee617',
   'icons/icon-192.png': 'b198a225faf31279',
   'icons/icon-512.png': '72903782cc3f28c8',
   'icons/icon-maskable-512.png': '05f8a103e19511da',
-  'index.html': 'e498561f63f0',
-  'v/e498561f63f0/main.dart.js': '6f3ffe8eaa299877',
+  'index.html': '3846d11ad75a',
+  'v/3846d11ad75a/main.dart.js': '0d5d459698d74fa0',
   'manifest.webmanifest': '7a2ead77621a4bc3',
 };
 // @@PRECACHE_END
