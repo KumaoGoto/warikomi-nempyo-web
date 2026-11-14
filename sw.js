@@ -3,34 +3,37 @@
 // 新しい置き場を作って古い置き場を捨てる。中身の変わっていないファイルは古い置き場から移す（更新のたびに全部を取り直さない）。
 // 公開の形（tool/web/stage.py）では、プログラムは版ごとの箱 v/<VERSION>/ に入り、PRECACHE もその場所に書き換わる。
 
-const VERSION = '3990644889ab';
+const VERSION = 'b8df1fedd3d2';
 const PRECACHE = {
-  'assets/AssetManifest.bin': '68d3d813538cc550',
-  'assets/AssetManifest.bin.json': '152780deb0490c4a',
-  'assets/FontManifest.json': '03743dd7d3d3da76',
+  'assets/AssetManifest.bin': 'a86a07f4ad677d80',
+  'assets/AssetManifest.bin.json': 'ed4428b82d7de2bc',
+  'assets/FontManifest.json': 'c28cf3e5bb8b9bf4',
   'assets/assets/audio/correct.wav': '16c78f5ba877eabe',
+  'assets/assets/audio/fanfare.wav': '90681b3b6318998d',
   'assets/assets/audio/tap.wav': '8dc282ca3f14656f',
   'assets/assets/audio/wrong.wav': '0318d5c8eeec9845',
-  'assets/assets/data/events.json': 'f870e4adb99e263c',
-  'assets/assets/fonts/NotoSansJP-Regular.ttf': '26b028adba41d905',
-  'assets/assets/fonts/NotoSansJP-SemiBold.ttf': 'b4df0784f61d4fdf',
-  'assets/assets/fonts/ZenOldMincho-Bold.ttf': '6400f488c9573f5b',
-  'assets/assets/fonts/ZenOldMincho-Regular.ttf': 'ffe5c09c31bfad87',
+  'assets/assets/data/events.json': 'c6d542a4bb8efd9e',
+  'assets/assets/fonts/MPLUSRounded1c-Bold.ttf': '0e156834912decab',
+  'assets/assets/fonts/MPLUSRounded1c-Regular.ttf': 'afc1950d0b5abeef',
+  'assets/assets/fonts/MPLUSRounded1cHeading-Bold.ttf': 'ecdb3f9287983b3a',
+  'assets/assets/fonts/MPLUSRounded1cHeading-Regular.ttf': '65dc7a1036ebb363',
+  'assets/assets/fonts/NotoSansJP-Regular.ttf': '5fe4626836d88d63',
+  'assets/assets/fonts/NotoSansJP-SemiBold.ttf': 'f9b253a5b4817621',
   'assets/assets/ranking/ng_words.json': 'e2fdd6e04cfbaa42',
-  'assets/fonts/MaterialIcons-Regular.otf': '4be32c1a0f18a0b2',
+  'assets/fonts/MaterialIcons-Regular.otf': 'e3ea7f1505f8b0fd',
   'assets/shaders/ink_sparkle.frag': '2dca5ab93d4ec29e',
   'assets/shaders/stretch_effect.frag': 'ab412f07a5b9b50b',
-  'v/3990644889ab/canvaskit/canvaskit.js': '7361b744487f9826',
-  'v/3990644889ab/canvaskit/canvaskit.wasm': '6bdfaa51c76845c0',
-  'v/3990644889ab/flutter_bootstrap.js': '997993cdd0555f07',
+  'v/b8df1fedd3d2/canvaskit/canvaskit.js': '7361b744487f9826',
+  'v/b8df1fedd3d2/canvaskit/canvaskit.wasm': '6bdfaa51c76845c0',
+  'v/b8df1fedd3d2/flutter_bootstrap.js': '997993cdd0555f07',
   'icons/apple-touch-icon.png': '5405d6ab9e0c9a4d',
   'icons/favicon-32.png': '2268911fa6fee617',
   'icons/icon-192.png': 'b198a225faf31279',
   'icons/icon-512.png': '72903782cc3f28c8',
   'icons/icon-maskable-512.png': '05f8a103e19511da',
-  'index.html': '3990644889ab',
-  'v/3990644889ab/main.dart.js': '00b1a1aa8cc56940',
-  'manifest.webmanifest': '7a2ead77621a4bc3',
+  'index.html': 'b8df1fedd3d2',
+  'v/b8df1fedd3d2/main.dart.js': '196217098e61482d',
+  'manifest.webmanifest': '32ddf71263565a1e',
 };
 // @@PRECACHE_END
 

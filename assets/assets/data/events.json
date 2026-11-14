@@ -8,7 +8,8 @@
       "note": "氷期が終わって海面が上がり、土器と弓矢を使う暮らしに変わった。始まりの年代には幅がある。",
       "category": "japan",
       "era": "縄文・弥生",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "progress"
     },
     {
       "id": "w-bce3000-egypt",
@@ -17,7 +18,8 @@
       "note": "ナイル川の定期的な氾濫を利用した農業が国を支えた。太陽暦と象形文字が生まれる。",
       "category": "world",
       "era": "古代オリエント",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "power"
     },
     {
       "id": "w-bce3000-mesopotamia",
@@ -26,7 +28,8 @@
       "note": "ティグリス川とユーフラテス川の流域でシュメール人が都市を築いた。楔形文字と太陰暦が使われる。",
       "category": "world",
       "era": "古代オリエント",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "power"
     },
     {
       "id": "w-bce2600-indus",
@@ -35,7 +38,8 @@
       "note": "モエンジョ=ダーロなど計画的な都市が築かれた。文字はまだ解読されていない。",
       "category": "world",
       "era": "インド",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "power"
     },
     {
       "id": "w-bce1750-hammurabi",
@@ -53,7 +57,8 @@
       "note": "現在確かめられる中国最古の王朝。占いの結果を刻んだ甲骨文字が漢字のもとになる。",
       "category": "world",
       "era": "中国古代",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "power"
     },
     {
       "id": "w-bce1500-aryan",
@@ -98,7 +103,8 @@
       "note": "アクロポリスを中心に市民が集まる小さな都市国家。アテネとスパルタが代表格。",
       "category": "world",
       "era": "古代ギリシア",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "power"
     },
     {
       "id": "w-bce770-shunju",
@@ -161,7 +167,8 @@
       "note": "のちに仏教を開く。生没年には諸説がある。",
       "category": "world",
       "era": "インド",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "faith"
     },
     {
       "id": "w-bce551-confucius",
@@ -170,7 +177,8 @@
       "note": "仁と礼を重んじる教えを説いた。弟子がまとめた論語は東アジア全体に影響を与える。",
       "category": "world",
       "era": "中国古代",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "faith"
     },
     {
       "id": "w-bce525-achaemenid",
@@ -206,7 +214,8 @@
       "note": "ギリシアの諸ポリスがペルシアの侵攻を退けた。マラトンやサラミスの戦いが知られる。",
       "category": "world",
       "era": "古代ギリシア",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "battle"
     },
     {
       "id": "w-bce490-marathon",
@@ -269,7 +278,8 @@
       "note": "大陸から水田稲作と金属器が伝わった。始まりを紀元前10世紀ごろとする説もある。",
       "category": "japan",
       "era": "縄文・弥生",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "progress"
     },
     {
       "id": "w-bce399-socrates",
@@ -296,7 +306,8 @@
       "note": "マケドニアの王がペルシアを倒しインド北西部にまで達した。ギリシア文化が東方へ広がる。",
       "category": "world",
       "era": "古代ギリシア",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "battle"
     },
     {
       "id": "w-bce323-hellenism",
@@ -351,7 +362,8 @@
       "note": "文字・貨幣・ものさしを統一し、郡県制で全土を治めた。北方の守りに長城を築く。",
       "category": "world",
       "era": "中国古代",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "power"
     },
     {
       "id": "w-bce202-han",
@@ -360,7 +372,8 @@
       "note": "劉邦が建てた王朝で、儒学を国の学問として重んじた。中国の人々を「漢」と呼ぶ由来になる。",
       "category": "world",
       "era": "中国古代",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "power"
     },
     {
       "id": "w-bce146-carthage",
@@ -447,7 +460,8 @@
       "era": "古代ローマ",
       "difficulty": 1,
       "month": 1,
-      "day": 16
+      "day": 16,
+      "kind": "power"
     },
     {
       "id": "w-8-shin",
@@ -465,7 +479,8 @@
       "note": "劉秀が漢を再興した。倭の奴国に金印を与えたのはこの王朝。",
       "category": "world",
       "era": "中国古代",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "power"
     },
     {
       "id": "w-30-jesus",
@@ -474,7 +489,8 @@
       "note": "ユダヤ教の指導層と対立し十字架にかけられた。復活を信じる弟子たちがキリスト教を広めていく。",
       "category": "world",
       "era": "古代ローマ",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "faith"
     },
     {
       "id": "jp-57-nanokuni",
@@ -483,7 +499,8 @@
       "note": "光武帝から金印を授かったと中国側の記録にある。江戸時代に志賀島で見つかった金印がそれとされる。",
       "category": "japan",
       "era": "縄文・弥生",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "voyage"
     },
     {
       "id": "w-96-fivegood",
@@ -573,7 +590,8 @@
       "note": "「親魏倭王」の称号と銅鏡を受け取ったと魏志倭人伝は伝える。邪馬台国の場所は今も決着していない。",
       "category": "japan",
       "era": "縄文・弥生",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "voyage"
     },
     {
       "id": "jp-266-shin",
@@ -611,7 +629,8 @@
       "note": "迫害されていた信仰が認められた。四世紀の終わりには国の宗教とされる。",
       "category": "world",
       "era": "古代ローマ",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "faith"
     },
     {
       "id": "w-320-gupta",
@@ -638,7 +657,8 @@
       "note": "フン人に押される形で西へ動いた。ローマ帝国の領内に次々と王国ができる。",
       "category": "world",
       "era": "古代ローマ",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "people"
     },
     {
       "id": "jp-391-kotaio",
@@ -667,7 +687,8 @@
       "era": "古代ローマ",
       "difficulty": 1,
       "month": 1,
-      "day": 17
+      "day": 17,
+      "kind": "power"
     },
     {
       "id": "jp-421-san",
@@ -686,7 +707,8 @@
       "category": "japan",
       "era": "古墳",
       "difficulty": 1,
-      "month": 7
+      "month": 7,
+      "kind": "culture"
     },
     {
       "id": "w-439-hokugi",
@@ -706,7 +728,8 @@
       "era": "古代ローマ",
       "difficulty": 1,
       "month": 9,
-      "day": 4
+      "day": 4,
+      "kind": "power"
     },
     {
       "id": "jp-478-bu",
@@ -715,7 +738,8 @@
       "note": "宋に上表文を送り、称号を求めた。武は雄略天皇にあたると考えられている。",
       "category": "japan",
       "era": "古墳",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "voyage"
     },
     {
       "id": "w-481-frank",
@@ -763,7 +787,8 @@
       "note": "聖明王が仏像と経典を送ったとされる。552年とする記録もあり、教科書では両説を併記することが多い。",
       "category": "japan",
       "era": "古墳",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "faith"
     },
     {
       "id": "jp-562-mimana",
@@ -801,7 +826,8 @@
       "note": "約300年の分裂を終わらせた。科挙を始め、大運河で南北を結ぶ。",
       "category": "world",
       "era": "中国中世",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "power"
     },
     {
       "id": "jp-593-suiko",
@@ -812,7 +838,8 @@
       "era": "飛鳥",
       "difficulty": 1,
       "month": 4,
-      "day": 10
+      "day": 10,
+      "kind": "power"
     },
     {
       "id": "jp-603-kani",
@@ -823,7 +850,8 @@
       "era": "飛鳥",
       "difficulty": 1,
       "month": 12,
-      "day": 5
+      "day": 5,
+      "kind": "law"
     },
     {
       "id": "jp-604-kenpo",
@@ -834,7 +862,8 @@
       "era": "飛鳥",
       "difficulty": 1,
       "month": 4,
-      "day": 3
+      "day": 3,
+      "kind": "law"
     },
     {
       "id": "w-606-vardhana",
@@ -852,7 +881,8 @@
       "note": "現存する世界最古の木造建築とされる。670年の火災後に再建されたという説が有力。",
       "category": "japan",
       "era": "飛鳥",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "building"
     },
     {
       "id": "jp-607-imoko",
@@ -863,7 +893,8 @@
       "era": "飛鳥",
       "difficulty": 1,
       "month": 7,
-      "day": 3
+      "day": 3,
+      "kind": "voyage"
     },
     {
       "id": "w-610-islam",
@@ -872,7 +903,8 @@
       "note": "唯一神アッラーへの服従を説いた。啓示を受けた年には伝承に幅がある。",
       "category": "world",
       "era": "イスラーム世界",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "faith"
     },
     {
       "id": "w-618-tang",
@@ -881,7 +913,8 @@
       "note": "律令にもとづく制度を整え、長安は国際都市として栄えた。日本も遣唐使を送って学ぶ。",
       "category": "world",
       "era": "中国中世",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "power"
     },
     {
       "id": "jp-620-tennoki",
@@ -899,7 +932,8 @@
       "note": "迫害を逃れメッカからメディナへ移った。ここで信仰にもとづく共同体が築かれる。",
       "category": "world",
       "era": "イスラーム世界",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "faith"
     },
     {
       "id": "jp-630-kentoshi",
@@ -909,7 +943,8 @@
       "category": "japan",
       "era": "飛鳥",
       "difficulty": 1,
-      "month": 8
+      "month": 8,
+      "kind": "voyage"
     },
     {
       "id": "w-642-nahavand",
@@ -939,7 +974,8 @@
       "era": "飛鳥",
       "difficulty": 1,
       "month": 6,
-      "day": 12
+      "day": 12,
+      "kind": "power"
     },
     {
       "id": "jp-646-kaishin",
@@ -980,7 +1016,8 @@
       "era": "飛鳥",
       "difficulty": 1,
       "month": 8,
-      "day": 27
+      "day": 27,
+      "kind": "battle"
     },
     {
       "id": "jp-667-otsu",
@@ -1012,7 +1049,8 @@
       "era": "飛鳥",
       "difficulty": 1,
       "month": 6,
-      "day": 24
+      "day": 24,
+      "kind": "battle"
     },
     {
       "id": "w-676-silla",
@@ -1072,7 +1110,8 @@
       "era": "飛鳥",
       "difficulty": 1,
       "month": 8,
-      "day": 3
+      "day": 3,
+      "kind": "law"
     },
     {
       "id": "jp-708-wado",
@@ -1092,7 +1131,8 @@
       "era": "奈良",
       "difficulty": 1,
       "month": 3,
-      "day": 10
+      "day": 10,
+      "kind": "power"
     },
     {
       "id": "jp-711-chikusen",
@@ -1122,7 +1162,8 @@
       "era": "奈良",
       "difficulty": 1,
       "month": 1,
-      "day": 28
+      "day": 28,
+      "kind": "culture"
     },
     {
       "id": "jp-713-fudoki",
@@ -1153,7 +1194,8 @@
       "era": "奈良",
       "difficulty": 1,
       "month": 5,
-      "day": 21
+      "day": 21,
+      "kind": "culture"
     },
     {
       "id": "jp-722-hyakumancho",
@@ -1223,7 +1265,8 @@
       "era": "奈良",
       "difficulty": 1,
       "month": 3,
-      "day": 24
+      "day": 24,
+      "kind": "faith"
     },
     {
       "id": "jp-743-daibutsu-shochoku",
@@ -1245,7 +1288,8 @@
       "era": "奈良",
       "difficulty": 1,
       "month": 5,
-      "day": 27
+      "day": 27,
+      "kind": "law"
     },
     {
       "id": "w-750-abbasid",
@@ -1295,7 +1339,8 @@
       "era": "奈良",
       "difficulty": 1,
       "month": 4,
-      "day": 9
+      "day": 9,
+      "kind": "building"
     },
     {
       "id": "jp-754-ganjin",
@@ -1304,7 +1349,8 @@
       "note": "渡航に何度も失敗し失明しながら日本に着いた。正式な僧の資格を与える戒律の制度を伝える。",
       "category": "japan",
       "era": "奈良",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "voyage"
     },
     {
       "id": "w-755-anshi",
@@ -1326,7 +1372,8 @@
       "era": "奈良",
       "difficulty": 1,
       "month": 6,
-      "day": 21
+      "day": 21,
+      "kind": "building"
     },
     {
       "id": "jp-757-naramaro",
@@ -1345,7 +1392,8 @@
       "note": "天皇から農民や兵士まで幅広い層の歌を収める。漢字で日本語の音を写す万葉仮名で書かれた。",
       "category": "japan",
       "era": "奈良",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "culture"
     },
     {
       "id": "jp-764-oshikatsu",
@@ -1395,7 +1443,8 @@
       "era": "平安",
       "difficulty": 1,
       "month": 10,
-      "day": 22
+      "day": 22,
+      "kind": "power"
     },
     {
       "id": "jp-797-tamuramaro",
@@ -1405,7 +1454,8 @@
       "category": "japan",
       "era": "平安",
       "difficulty": 1,
-      "month": 11
+      "month": 11,
+      "kind": "power"
     },
     {
       "id": "w-800-charlemagne",
@@ -1416,7 +1466,8 @@
       "era": "中世ヨーロッパ",
       "difficulty": 1,
       "month": 12,
-      "day": 25
+      "day": 25,
+      "kind": "power"
     },
     {
       "id": "jp-802-isawa",
@@ -1443,7 +1494,8 @@
       "note": "唐から帰国し、比叡山に延暦寺を開いた。のちに多くの宗派の祖がここで学ぶ。",
       "category": "japan",
       "era": "平安",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "faith"
     },
     {
       "id": "jp-805-tokusei",
@@ -1463,7 +1515,8 @@
       "note": "唐で密教を学んで帰国し、高野山に金剛峰寺を開いた。書や土木でも足跡を残す。",
       "category": "japan",
       "era": "平安",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "faith"
     },
     {
       "id": "jp-810-kusuko",
@@ -1558,7 +1611,8 @@
       "category": "japan",
       "era": "平安",
       "difficulty": 1,
-      "month": 9
+      "month": 9,
+      "kind": "voyage"
     },
     {
       "id": "jp-901-michizane",
@@ -1569,7 +1623,8 @@
       "era": "平安",
       "difficulty": 1,
       "month": 1,
-      "day": 25
+      "day": 25,
+      "kind": "power"
     },
     {
       "id": "jp-902-engi",
@@ -1591,7 +1646,8 @@
       "era": "平安",
       "difficulty": 1,
       "month": 4,
-      "day": 18
+      "day": 18,
+      "kind": "culture"
     },
     {
       "id": "jp-927-engishiki",
@@ -1638,7 +1694,8 @@
       "category": "japan",
       "era": "平安",
       "difficulty": 1,
-      "month": 2
+      "month": 2,
+      "kind": "battle"
     },
     {
       "id": "jp-935-tosanikki",
@@ -1657,7 +1714,8 @@
       "category": "japan",
       "era": "平安",
       "difficulty": 1,
-      "month": 12
+      "month": 12,
+      "kind": "battle"
     },
     {
       "id": "w-960-song",
@@ -1666,7 +1724,8 @@
       "note": "文官を重んじる政治をとった。羅針盤と火薬が実用化され、印刷術も広まって商業が発達する。",
       "category": "world",
       "era": "中国中世",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "power"
     },
     {
       "id": "w-962-hre",
@@ -1726,7 +1785,8 @@
       "note": "清少納言による随筆。宮廷の暮らしを鋭い観察で切り取っている。",
       "category": "japan",
       "era": "平安",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "culture"
     },
     {
       "id": "jp-1008-genji",
@@ -1735,7 +1795,8 @@
       "note": "紫式部の長編物語。この年の紫式部日記に読まれていた記録がある。",
       "category": "japan",
       "era": "平安",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "culture"
     },
     {
       "id": "jp-1016-michinaga",
@@ -1745,7 +1806,8 @@
       "category": "japan",
       "era": "平安",
       "difficulty": 1,
-      "month": 1
+      "month": 1,
+      "kind": "power"
     },
     {
       "id": "jp-1017-yorimichi",
@@ -1801,7 +1863,8 @@
       "category": "japan",
       "era": "平安",
       "difficulty": 1,
-      "month": 3
+      "month": 3,
+      "kind": "building"
     },
     {
       "id": "w-1054-schism",
@@ -1880,7 +1943,8 @@
       "category": "japan",
       "era": "平安",
       "difficulty": 1,
-      "month": 11
+      "month": 11,
+      "kind": "power"
     },
     {
       "id": "w-1096-crusade",
@@ -1889,7 +1953,8 @@
       "note": "聖地エルサレムの奪回を掲げた遠征。以後およそ200年で七回前後送られ、東方との交流が進む。",
       "category": "world",
       "era": "中世ヨーロッパ",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "battle"
     },
     {
       "id": "w-1115-jin",
@@ -1919,7 +1984,8 @@
       "category": "japan",
       "era": "平安",
       "difficulty": 1,
-      "month": 8
+      "month": 8,
+      "kind": "building"
     },
     {
       "id": "w-1127-nanso",
@@ -1939,7 +2005,8 @@
       "era": "平安",
       "difficulty": 1,
       "month": 7,
-      "day": 11
+      "day": 11,
+      "kind": "battle"
     },
     {
       "id": "jp-1159-heiji",
@@ -1950,7 +2017,8 @@
       "era": "平安",
       "difficulty": 1,
       "month": 12,
-      "day": 9
+      "day": 9,
+      "kind": "battle"
     },
     {
       "id": "jp-1167-kiyomori",
@@ -1961,7 +2029,8 @@
       "era": "平安",
       "difficulty": 1,
       "month": 2,
-      "day": 11
+      "day": 11,
+      "kind": "power"
     },
     {
       "id": "jp-1175-jodoshu",
@@ -1971,7 +2040,8 @@
       "category": "japan",
       "era": "平安",
       "difficulty": 1,
-      "month": 3
+      "month": 3,
+      "kind": "faith"
     },
     {
       "id": "jp-1177-shishigatani",
@@ -2036,7 +2106,8 @@
       "era": "鎌倉",
       "difficulty": 1,
       "month": 3,
-      "day": 24
+      "day": 24,
+      "kind": "battle"
     },
     {
       "id": "jp-1185-shugo",
@@ -2047,7 +2118,8 @@
       "era": "鎌倉",
       "difficulty": 1,
       "month": 11,
-      "day": 28
+      "day": 28,
+      "kind": "law"
     },
     {
       "id": "w-1187-saladin",
@@ -2078,7 +2150,8 @@
       "note": "宋から臨済宗を持ち帰った。座禅による修行が武士の気風に合い広まる。あわせて茶の習慣も伝えた。",
       "category": "japan",
       "era": "鎌倉",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "faith"
     },
     {
       "id": "jp-1192-shogun",
@@ -2089,7 +2162,8 @@
       "era": "鎌倉",
       "difficulty": 1,
       "month": 7,
-      "day": 12
+      "day": 12,
+      "kind": "power"
     },
     {
       "id": "jp-1199-jusannin",
@@ -2130,7 +2204,8 @@
       "era": "鎌倉",
       "difficulty": 1,
       "month": 10,
-      "day": 3
+      "day": 3,
+      "kind": "building"
     },
     {
       "id": "jp-1205-shinkokinshu",
@@ -2141,7 +2216,8 @@
       "era": "鎌倉",
       "difficulty": 1,
       "month": 3,
-      "day": 26
+      "day": 26,
+      "kind": "culture"
     },
     {
       "id": "w-1206-delhi",
@@ -2159,7 +2235,8 @@
       "note": "遊牧民の諸部族をまとめ、ユーラシアに広がる征服を始めた。",
       "category": "world",
       "era": "中国中世",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "power"
     },
     {
       "id": "jp-1207-honen",
@@ -2179,7 +2256,8 @@
       "category": "japan",
       "era": "鎌倉",
       "difficulty": 1,
-      "month": 3
+      "month": 3,
+      "kind": "culture"
     },
     {
       "id": "jp-1213-wada",
@@ -2201,7 +2279,8 @@
       "era": "中世ヨーロッパ",
       "difficulty": 1,
       "month": 6,
-      "day": 15
+      "day": 15,
+      "kind": "law"
     },
     {
       "id": "jp-1219-sanetomo",
@@ -2241,7 +2320,8 @@
       "era": "鎌倉",
       "difficulty": 1,
       "month": 5,
-      "day": 15
+      "day": 15,
+      "kind": "battle"
     },
     {
       "id": "jp-1221-rokuhara",
@@ -2250,7 +2330,8 @@
       "note": "承久の乱のあと、幕府が京都に置いた朝廷の監視役。西国を治める拠点にもなる。",
       "category": "japan",
       "era": "鎌倉",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "power"
     },
     {
       "id": "jp-1223-shinpojito",
@@ -2269,7 +2350,8 @@
       "note": "自らの力を頼まず阿弥陀仏にすべてを任せる教え。悪人こそ救われるという考えを示した。",
       "category": "japan",
       "era": "鎌倉",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "faith"
     },
     {
       "id": "jp-1225-hyojoshu",
@@ -2301,7 +2383,8 @@
       "era": "鎌倉",
       "difficulty": 1,
       "month": 8,
-      "day": 10
+      "day": 10,
+      "kind": "law"
     },
     {
       "id": "w-1240-kiev-fall",
@@ -2339,7 +2422,8 @@
       "note": "ひたすら座禅に打ち込む只管打坐を説いた曹洞宗の道場。",
       "category": "japan",
       "era": "鎌倉",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "faith"
     },
     {
       "id": "jp-1247-hoji",
@@ -2372,7 +2456,8 @@
       "era": "鎌倉",
       "difficulty": 1,
       "month": 4,
-      "day": 28
+      "day": 28,
+      "kind": "faith"
     },
     {
       "id": "w-1258-baghdad",
@@ -2403,7 +2488,8 @@
       "category": "world",
       "era": "中国中世",
       "difficulty": 1,
-      "month": 12
+      "month": 12,
+      "kind": "power"
     },
     {
       "id": "w-1275-marcopolo",
@@ -2422,7 +2508,8 @@
       "category": "japan",
       "era": "鎌倉",
       "difficulty": 1,
-      "month": 10
+      "month": 10,
+      "kind": "battle"
     },
     {
       "id": "jp-1276-sekirui",
@@ -2440,7 +2527,8 @@
       "note": "念仏の札を配りながら各地を歩いた。時宗と呼ばれる。",
       "category": "japan",
       "era": "鎌倉",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "faith"
     },
     {
       "id": "w-1279-nansoend",
@@ -2461,7 +2549,8 @@
       "category": "japan",
       "era": "鎌倉",
       "difficulty": 1,
-      "month": 5
+      "month": 5,
+      "kind": "battle"
     },
     {
       "id": "jp-1285-shimotsuki",
@@ -2509,7 +2598,8 @@
       "category": "japan",
       "era": "鎌倉",
       "difficulty": 1,
-      "month": 3
+      "month": 3,
+      "kind": "law"
     },
     {
       "id": "w-1299-ottoman",
@@ -2556,7 +2646,8 @@
       "note": "兼好法師の随筆。枕草子・方丈記と並ぶ三大随筆とされる。",
       "category": "japan",
       "era": "鎌倉",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "culture"
     },
     {
       "id": "jp-1331-genko",
@@ -2576,7 +2667,8 @@
       "era": "鎌倉",
       "difficulty": 1,
       "month": 5,
-      "day": 22
+      "day": 22,
+      "kind": "power"
     },
     {
       "id": "jp-1334-kenmu",
@@ -2585,7 +2677,8 @@
       "note": "後醍醐天皇が天皇中心の政治を復活させた。武士の恩賞への不満から二年ほどで崩れる。",
       "category": "japan",
       "era": "室町",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "power"
     },
     {
       "id": "jp-1336-kenmushikimoku",
@@ -2618,7 +2711,8 @@
       "era": "室町",
       "difficulty": 1,
       "month": 8,
-      "day": 11
+      "day": 11,
+      "kind": "power"
     },
     {
       "id": "w-1339-hundredyears",
@@ -2627,7 +2721,8 @@
       "note": "フランスの王位と毛織物産地の支配をめぐりイギリスと争った。長い戦いで両国の王権が強まる。",
       "category": "world",
       "era": "中世ヨーロッパ",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "battle"
     },
     {
       "id": "w-1347-plague",
@@ -2636,7 +2731,8 @@
       "note": "人口の三分の一前後が失われたとされる。働き手が減って農奴の地位が上がり、荘園が崩れていく。",
       "category": "world",
       "era": "中世ヨーロッパ",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "disaster"
     },
     {
       "id": "jp-1350-kanno",
@@ -2684,7 +2780,8 @@
       "category": "world",
       "era": "中国近世",
       "difficulty": 1,
-      "month": 1
+      "month": 1,
+      "kind": "power"
     },
     {
       "id": "w-1370-timur",
@@ -2741,7 +2838,8 @@
       "category": "japan",
       "era": "室町",
       "difficulty": 1,
-      "month": 10
+      "month": 10,
+      "kind": "power"
     },
     {
       "id": "w-1392-joseon",
@@ -2760,7 +2858,8 @@
       "note": "公家と武家の様式を重ねた三層の建物。貴族文化と武家文化が溶け合った北山文化を象徴する。",
       "category": "japan",
       "era": "室町",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "building"
     },
     {
       "id": "jp-1399-oei",
@@ -2798,7 +2897,8 @@
       "note": "倭寇と区別するため勘合という証明書を用いた。銅銭や生糸が輸入され経済に大きく影響する。",
       "category": "japan",
       "era": "室町",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "voyage"
     },
     {
       "id": "w-1405-zhenghe",
@@ -2838,7 +2938,8 @@
       "note": "近江の馬借を発端に農民が徳政を求めて蜂起した。記録に残る最初の大規模な土一揆とされる。",
       "category": "japan",
       "era": "室町",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "people"
     },
     {
       "id": "jp-1429-ryukyu",
@@ -2847,7 +2948,8 @@
       "note": "尚巴志が沖縄本島を統一した。日本・中国・東南アジアを結ぶ中継貿易で栄える。",
       "category": "japan",
       "era": "室町",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "power"
     },
     {
       "id": "w-1429-joan",
@@ -2889,7 +2991,8 @@
       "era": "中世ヨーロッパ",
       "difficulty": 1,
       "month": 5,
-      "day": 29
+      "day": 29,
+      "kind": "power"
     },
     {
       "id": "w-1453-hundredyearsend",
@@ -2952,7 +3055,8 @@
       "era": "室町",
       "difficulty": 1,
       "month": 1,
-      "day": 18
+      "day": 18,
+      "kind": "battle"
     },
     {
       "id": "jp-1467-sesshu",
@@ -2961,7 +3065,8 @@
       "note": "本場の水墨画を学び、帰国後に日本独自の様式を大成した。",
       "category": "japan",
       "era": "室町",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "culture"
     },
     {
       "id": "jp-1471-rennyo",
@@ -3009,7 +3114,8 @@
       "category": "japan",
       "era": "戦国",
       "difficulty": 1,
-      "month": 12
+      "month": 12,
+      "kind": "people"
     },
     {
       "id": "jp-1488-kaga",
@@ -3019,7 +3125,8 @@
       "category": "japan",
       "era": "戦国",
       "difficulty": 1,
-      "month": 6
+      "month": 6,
+      "kind": "people"
     },
     {
       "id": "w-1488-diaz",
@@ -3038,7 +3145,8 @@
       "category": "japan",
       "era": "室町",
       "difficulty": 1,
-      "month": 2
+      "month": 2,
+      "kind": "building"
     },
     {
       "id": "w-1492-columbus",
@@ -3049,7 +3157,8 @@
       "era": "大航海時代",
       "difficulty": 1,
       "month": 10,
-      "day": 12
+      "day": 12,
+      "kind": "voyage"
     },
     {
       "id": "w-1492-granada",
@@ -3102,7 +3211,8 @@
       "era": "大航海時代",
       "difficulty": 1,
       "month": 5,
-      "day": 20
+      "day": 20,
+      "kind": "voyage"
     },
     {
       "id": "w-1501-safavid",
@@ -3133,7 +3243,8 @@
       "era": "ルネサンス・宗教改革",
       "difficulty": 1,
       "month": 10,
-      "day": 31
+      "day": 31,
+      "kind": "faith"
     },
     {
       "id": "w-1519-magellan",
@@ -3144,7 +3255,8 @@
       "era": "大航海時代",
       "difficulty": 1,
       "month": 9,
-      "day": 20
+      "day": 20,
+      "kind": "voyage"
     },
     {
       "id": "w-1520-suleiman",
@@ -3267,7 +3379,8 @@
       "era": "戦国",
       "difficulty": 1,
       "month": 8,
-      "day": 25
+      "day": 25,
+      "kind": "voyage"
     },
     {
       "id": "w-1543-copernicus",
@@ -3308,7 +3421,8 @@
       "era": "戦国",
       "difficulty": 1,
       "month": 7,
-      "day": 22
+      "day": 22,
+      "kind": "faith"
     },
     {
       "id": "jp-1553-kawanakajima",
@@ -3381,7 +3495,8 @@
       "era": "戦国",
       "difficulty": 1,
       "month": 5,
-      "day": 19
+      "day": 19,
+      "kind": "battle"
     },
     {
       "id": "jp-1568-nyukyo",
@@ -3458,7 +3573,8 @@
       "era": "室町",
       "difficulty": 1,
       "month": 7,
-      "day": 18
+      "day": 18,
+      "kind": "power"
     },
     {
       "id": "jp-1575-nagashino",
@@ -3469,7 +3585,8 @@
       "era": "戦国",
       "difficulty": 1,
       "month": 5,
-      "day": 21
+      "day": 21,
+      "kind": "battle"
     },
     {
       "id": "jp-1576-azuchi",
@@ -3520,7 +3637,8 @@
       "era": "戦国",
       "difficulty": 1,
       "month": 6,
-      "day": 2
+      "day": 2,
+      "kind": "battle"
     },
     {
       "id": "jp-1582-kenchi",
@@ -3530,7 +3648,8 @@
       "category": "japan",
       "era": "安土桃山",
       "difficulty": 1,
-      "month": 7
+      "month": 7,
+      "kind": "law"
     },
     {
       "id": "jp-1582-tensho",
@@ -3595,7 +3714,8 @@
       "era": "安土桃山",
       "difficulty": 1,
       "month": 7,
-      "day": 8
+      "day": 8,
+      "kind": "law"
     },
     {
       "id": "w-1588-armada",
@@ -3604,7 +3724,8 @@
       "note": "海の主導権がスペインからイギリスへ移っていく転機になった。",
       "category": "world",
       "era": "大航海時代",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "battle"
     },
     {
       "id": "jp-1590-tenka",
@@ -3614,7 +3735,8 @@
       "category": "japan",
       "era": "安土桃山",
       "difficulty": 1,
-      "month": 7
+      "month": 7,
+      "kind": "power"
     },
     {
       "id": "jp-1591-mibunhorei",
@@ -3653,7 +3775,8 @@
       "category": "japan",
       "era": "安土桃山",
       "difficulty": 1,
-      "month": 4
+      "month": 4,
+      "kind": "battle"
     },
     {
       "id": "jp-1596-sanfelipe",
@@ -3704,7 +3827,8 @@
       "era": "安土桃山",
       "difficulty": 1,
       "month": 9,
-      "day": 15
+      "day": 15,
+      "kind": "battle"
     },
     {
       "id": "w-1600-eic",
@@ -3715,7 +3839,8 @@
       "era": "大航海時代",
       "difficulty": 1,
       "month": 12,
-      "day": 31
+      "day": 31,
+      "kind": "economy"
     },
     {
       "id": "jp-1601-gokaido",
@@ -3746,7 +3871,8 @@
       "era": "江戸",
       "difficulty": 1,
       "month": 2,
-      "day": 12
+      "day": 12,
+      "kind": "power"
     },
     {
       "id": "jp-1604-itowappu",
@@ -3764,7 +3890,8 @@
       "note": "徳川家康が渡航の許可状を与えて貿易を勧めた。東南アジア各地に日本町ができる。",
       "category": "japan",
       "era": "江戸",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "voyage"
     },
     {
       "id": "jp-1609-kiyu",
@@ -3783,7 +3910,8 @@
       "category": "japan",
       "era": "江戸",
       "difficulty": 1,
-      "month": 3
+      "month": 3,
+      "kind": "power"
     },
     {
       "id": "w-1609-galilei",
@@ -3841,7 +3969,8 @@
       "era": "江戸",
       "difficulty": 1,
       "month": 7,
-      "day": 7
+      "day": 7,
+      "kind": "law"
     },
     {
       "id": "jp-1615-osaka",
@@ -3852,7 +3981,8 @@
       "era": "江戸",
       "difficulty": 1,
       "month": 5,
-      "day": 8
+      "day": 8,
+      "kind": "battle"
     },
     {
       "id": "jp-1615-kinchu",
@@ -3925,7 +4055,8 @@
       "era": "江戸",
       "difficulty": 1,
       "month": 6,
-      "day": 21
+      "day": 21,
+      "kind": "law"
     },
     {
       "id": "jp-1635-tokokinshi",
@@ -3955,7 +4086,8 @@
       "era": "江戸",
       "difficulty": 1,
       "month": 10,
-      "day": 25
+      "day": 25,
+      "kind": "people"
     },
     {
       "id": "jp-1639-sakoku",
@@ -3964,7 +4096,8 @@
       "note": "以後の貿易相手はオランダと中国に限られた。二年後の出島移転で体制が固まる。",
       "category": "japan",
       "era": "江戸",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "voyage"
     },
     {
       "id": "jp-1641-dejima",
@@ -3973,7 +4106,8 @@
       "note": "平戸から長崎の人工島へ移し、幕府が貿易と情報を独占した。オランダ風説書で海外の動きを知る。",
       "category": "japan",
       "era": "江戸",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "voyage"
     },
     {
       "id": "jp-1642-kanei",
@@ -3993,7 +4127,8 @@
       "era": "市民革命",
       "difficulty": 1,
       "month": 8,
-      "day": 22
+      "day": 22,
+      "kind": "people"
     },
     {
       "id": "jp-1643-tahata",
@@ -4023,7 +4158,8 @@
       "note": "明が反乱で滅び、満州人が長城を越えて北京に入った。漢民族に辮髪を強いる一方、科挙は続けた。",
       "category": "world",
       "era": "中国近世",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "power"
     },
     {
       "id": "w-1648-westphalia",
@@ -4184,7 +4320,8 @@
       "note": "上方の町人が担い手になった。代表とされる作品の刊行は元禄の前後に広がる。",
       "category": "japan",
       "era": "江戸",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "culture"
     },
     {
       "id": "w-1688-glorious",
@@ -4195,7 +4332,8 @@
       "era": "市民革命",
       "difficulty": 1,
       "month": 11,
-      "day": 5
+      "day": 5,
+      "kind": "people"
     },
     {
       "id": "jp-1689-okunohosomichi",
@@ -4206,7 +4344,8 @@
       "era": "江戸",
       "difficulty": 1,
       "month": 3,
-      "day": 27
+      "day": 27,
+      "kind": "culture"
     },
     {
       "id": "w-1689-billofrights",
@@ -4217,7 +4356,8 @@
       "era": "市民革命",
       "difficulty": 1,
       "month": 12,
-      "day": 16
+      "day": 16,
+      "kind": "law"
     },
     {
       "id": "w-1689-nerchinsk",
@@ -4331,7 +4471,8 @@
       "note": "八代将軍吉宗が財政再建に取り組んだ。上げ米、目安箱、公事方御定書などを実施する。",
       "category": "japan",
       "era": "江戸",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "law"
     },
     {
       "id": "jp-1720-yosho",
@@ -4472,7 +4613,8 @@
       "note": "綿工業の機械化から始まり、蒸気機関が動力を変えた。「世界の工場」と呼ばれる。",
       "category": "world",
       "era": "産業革命",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "progress"
     },
     {
       "id": "w-1762-catherine",
@@ -4520,7 +4662,8 @@
       "note": "株仲間を認め長崎貿易を広げるなど商業を利用して財政を立て直そうとした。わいろの横行で批判される。",
       "category": "japan",
       "era": "江戸",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "power"
     },
     {
       "id": "w-1772-poland",
@@ -4551,7 +4694,8 @@
       "note": "杉田玄白や前野良沢がオランダ語の解剖書を訳した。蘭学が学問として広がる出発点になる。",
       "category": "japan",
       "era": "江戸",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "culture"
     },
     {
       "id": "w-1775-amrevolution",
@@ -4562,7 +4706,8 @@
       "era": "市民革命",
       "difficulty": 1,
       "month": 4,
-      "day": 19
+      "day": 19,
+      "kind": "battle"
     },
     {
       "id": "jp-1776-ugetsu",
@@ -4582,7 +4727,8 @@
       "era": "市民革命",
       "difficulty": 1,
       "month": 7,
-      "day": 4
+      "day": 4,
+      "kind": "law"
     },
     {
       "id": "w-1776-wealthofnations",
@@ -4632,7 +4778,8 @@
       "category": "japan",
       "era": "江戸",
       "difficulty": 1,
-      "month": 6
+      "month": 6,
+      "kind": "law"
     },
     {
       "id": "w-1787-usconstitution",
@@ -4664,7 +4811,8 @@
       "era": "市民革命",
       "difficulty": 1,
       "month": 7,
-      "day": 14
+      "day": 14,
+      "kind": "people"
     },
     {
       "id": "w-1789-rightsofman",
@@ -4675,7 +4823,8 @@
       "era": "市民革命",
       "difficulty": 1,
       "month": 8,
-      "day": 26
+      "day": 26,
+      "kind": "law"
     },
     {
       "id": "jp-1790-igaku",
@@ -4733,7 +4882,8 @@
       "era": "江戸",
       "difficulty": 1,
       "month": 6,
-      "day": 13
+      "day": 13,
+      "kind": "culture"
     },
     {
       "id": "jp-1800-ino",
@@ -4769,7 +4919,8 @@
       "note": "江戸の町人が担い手になった。代表とされる作品の刊行は文化・文政の前後に広がる。",
       "category": "japan",
       "era": "江戸",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "culture"
     },
     {
       "id": "jp-1804-rezanov",
@@ -4802,7 +4953,8 @@
       "era": "市民革命",
       "difficulty": 1,
       "month": 5,
-      "day": 18
+      "day": 18,
+      "kind": "power"
     },
     {
       "id": "w-1805-muhammadali",
@@ -4956,7 +5108,8 @@
       "category": "japan",
       "era": "江戸",
       "difficulty": 1,
-      "month": 2
+      "month": 2,
+      "kind": "law"
     },
     {
       "id": "w-1825-decembrist",
@@ -5015,7 +5168,8 @@
       "note": "葛飾北斎の錦絵。「神奈川沖浪裏」は後に西洋の画家にも影響を与えた。",
       "category": "japan",
       "era": "江戸",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "culture"
     },
     {
       "id": "w-1832-reform",
@@ -5035,7 +5189,8 @@
       "note": "歌川広重の錦絵。旅の風景を情感ゆたかに描き、庶民の旅心を誘った。",
       "category": "japan",
       "era": "江戸",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "culture"
     },
     {
       "id": "jp-1833-tenpo-kikin",
@@ -5076,7 +5231,8 @@
       "era": "江戸",
       "difficulty": 1,
       "month": 2,
-      "day": 19
+      "day": 19,
+      "kind": "people"
     },
     {
       "id": "jp-1838-murata",
@@ -5134,7 +5290,8 @@
       "category": "world",
       "era": "帝国主義",
       "difficulty": 1,
-      "month": 6
+      "month": 6,
+      "kind": "battle"
     },
     {
       "id": "jp-1841-kabunakama",
@@ -5154,7 +5311,8 @@
       "category": "japan",
       "era": "江戸",
       "difficulty": 1,
-      "month": 5
+      "month": 5,
+      "kind": "law"
     },
     {
       "id": "jp-1842-shinsui",
@@ -5256,7 +5414,8 @@
       "era": "幕末",
       "difficulty": 1,
       "month": 6,
-      "day": 3
+      "day": 3,
+      "kind": "voyage"
     },
     {
       "id": "w-1853-crimean",
@@ -5287,7 +5446,8 @@
       "era": "幕末",
       "difficulty": 1,
       "month": 3,
-      "day": 3
+      "day": 3,
+      "kind": "diplomacy"
     },
     {
       "id": "jp-1855-nichiro",
@@ -5337,7 +5497,8 @@
       "category": "japan",
       "era": "幕末",
       "difficulty": 1,
-      "month": 9
+      "month": 9,
+      "kind": "power"
     },
     {
       "id": "jp-1858-shukou",
@@ -5348,7 +5509,8 @@
       "era": "幕末",
       "difficulty": 1,
       "month": 6,
-      "day": 19
+      "day": 19,
+      "kind": "diplomacy"
     },
     {
       "id": "jp-1859-yokohama",
@@ -5390,7 +5552,8 @@
       "era": "幕末",
       "difficulty": 1,
       "month": 3,
-      "day": 3
+      "day": 3,
+      "kind": "battle"
     },
     {
       "id": "w-1860-italy",
@@ -5423,7 +5586,8 @@
       "era": "帝国主義",
       "difficulty": 1,
       "month": 4,
-      "day": 12
+      "day": 12,
+      "kind": "battle"
     },
     {
       "id": "w-1861-italy",
@@ -5562,7 +5726,8 @@
       "era": "幕末",
       "difficulty": 1,
       "month": 1,
-      "day": 21
+      "day": 21,
+      "kind": "diplomacy"
     },
     {
       "id": "jp-1867-osei",
@@ -5573,7 +5738,8 @@
       "era": "幕末",
       "difficulty": 1,
       "month": 12,
-      "day": 9
+      "day": 9,
+      "kind": "power"
     },
     {
       "id": "jp-1867-taisei",
@@ -5584,7 +5750,8 @@
       "era": "幕末",
       "difficulty": 1,
       "month": 10,
-      "day": 14
+      "day": 14,
+      "kind": "power"
     },
     {
       "id": "w-1867-austriahungary",
@@ -5604,7 +5771,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 1,
-      "day": 3
+      "day": 3,
+      "kind": "battle"
     },
     {
       "id": "jp-1868-gokajo",
@@ -5615,7 +5783,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 3,
-      "day": 14
+      "day": 14,
+      "kind": "law"
     },
     {
       "id": "jp-1868-edojo",
@@ -5626,7 +5795,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 4,
-      "day": 11
+      "day": 11,
+      "kind": "power"
     },
     {
       "id": "jp-1868-tokyo",
@@ -5648,7 +5818,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 6,
-      "day": 17
+      "day": 17,
+      "kind": "law"
     },
     {
       "id": "jp-1869-tokyosento",
@@ -5669,7 +5840,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 5,
-      "day": 18
+      "day": 18,
+      "kind": "battle"
     },
     {
       "id": "jp-1869-kaitakushi",
@@ -5713,7 +5885,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 7,
-      "day": 14
+      "day": 14,
+      "kind": "law"
     },
     {
       "id": "jp-1871-iwakura",
@@ -5757,7 +5930,8 @@
       "era": "帝国主義",
       "difficulty": 1,
       "month": 1,
-      "day": 18
+      "day": 18,
+      "kind": "power"
     },
     {
       "id": "jp-1872-gakumon",
@@ -5767,7 +5941,8 @@
       "category": "japan",
       "era": "明治",
       "difficulty": 1,
-      "month": 2
+      "month": 2,
+      "kind": "culture"
     },
     {
       "id": "jp-1872-gakusei",
@@ -5778,7 +5953,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 8,
-      "day": 3
+      "day": 3,
+      "kind": "law"
     },
     {
       "id": "jp-1872-tahatakaikin",
@@ -5800,7 +5976,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 9,
-      "day": 12
+      "day": 12,
+      "kind": "progress"
     },
     {
       "id": "jp-1872-tomioka",
@@ -5811,7 +5988,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 10,
-      "day": 4
+      "day": 4,
+      "kind": "progress"
     },
     {
       "id": "jp-1873-chiso",
@@ -5822,7 +6000,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 7,
-      "day": 28
+      "day": 28,
+      "kind": "law"
     },
     {
       "id": "jp-1873-chohei",
@@ -5833,7 +6012,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 1,
-      "day": 10
+      "day": 10,
+      "kind": "law"
     },
     {
       "id": "jp-1873-seihen",
@@ -5854,7 +6034,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 1,
-      "day": 17
+      "day": 17,
+      "kind": "people"
     },
     {
       "id": "jp-1874-taiwan",
@@ -5928,7 +6109,8 @@
       "category": "japan",
       "era": "明治",
       "difficulty": 1,
-      "month": 2
+      "month": 2,
+      "kind": "battle"
     },
     {
       "id": "jp-1879-okinawa",
@@ -5939,7 +6121,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 4,
-      "day": 4
+      "day": 4,
+      "kind": "power"
     },
     {
       "id": "w-1877-indiaempire",
@@ -5993,7 +6176,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 10,
-      "day": 29
+      "day": 29,
+      "kind": "people"
     },
     {
       "id": "jp-1881-kokkai",
@@ -6004,7 +6188,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 10,
-      "day": 12
+      "day": 12,
+      "kind": "law"
     },
     {
       "id": "jp-1882-kaishinto",
@@ -6015,7 +6200,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 4,
-      "day": 16
+      "day": 16,
+      "kind": "people"
     },
     {
       "id": "jp-1882-nichigin",
@@ -6080,7 +6266,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 12,
-      "day": 22
+      "day": 22,
+      "kind": "law"
     },
     {
       "id": "jp-1885-shosetsushinzui",
@@ -6166,7 +6353,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 2,
-      "day": 11
+      "day": 11,
+      "kind": "law"
     },
     {
       "id": "jp-1890-kyoiku",
@@ -6177,7 +6365,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 10,
-      "day": 30
+      "day": 30,
+      "kind": "law"
     },
     {
       "id": "jp-1890-teikokugikai",
@@ -6187,7 +6376,8 @@
       "category": "japan",
       "era": "明治",
       "difficulty": 1,
-      "month": 11
+      "month": 11,
+      "kind": "law"
     },
     {
       "id": "jp-1891-otsu",
@@ -6218,7 +6408,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 7,
-      "day": 16
+      "day": 16,
+      "kind": "diplomacy"
     },
     {
       "id": "jp-1894-nisshin",
@@ -6229,7 +6420,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 7,
-      "day": 25
+      "day": 25,
+      "kind": "battle"
     },
     {
       "id": "jp-1894-kogo",
@@ -6261,7 +6453,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 4,
-      "day": 17
+      "day": 17,
+      "kind": "diplomacy"
     },
     {
       "id": "w-1895-xray",
@@ -6436,7 +6629,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 2,
-      "day": 5
+      "day": 5,
+      "kind": "progress"
     },
     {
       "id": "jp-1901-tanaka",
@@ -6447,7 +6641,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 12,
-      "day": 10
+      "day": 10,
+      "kind": "people"
     },
     {
       "id": "jp-1902-nichiei",
@@ -6458,7 +6653,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 1,
-      "day": 30
+      "day": 30,
+      "kind": "diplomacy"
     },
     {
       "id": "jp-1903-shakaishugi",
@@ -6490,7 +6686,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 2,
-      "day": 8
+      "day": 8,
+      "kind": "battle"
     },
     {
       "id": "w-1904-ententecordiale",
@@ -6512,7 +6709,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 9,
-      "day": 5
+      "day": 5,
+      "kind": "diplomacy"
     },
     {
       "id": "jp-1905-wagahai",
@@ -6544,7 +6742,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 11,
-      "day": 17
+      "day": 17,
+      "kind": "diplomacy"
     },
     {
       "id": "w-1905-bengal",
@@ -6651,7 +6850,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 10,
-      "day": 26
+      "day": 26,
+      "kind": "battle"
     },
     {
       "id": "jp-1910-kankoku",
@@ -6662,7 +6862,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 8,
-      "day": 22
+      "day": 22,
+      "kind": "power"
     },
     {
       "id": "jp-1910-taigyaku",
@@ -6706,7 +6907,8 @@
       "era": "明治",
       "difficulty": 1,
       "month": 2,
-      "day": 21
+      "day": 21,
+      "kind": "diplomacy"
     },
     {
       "id": "jp-1911-kojoho",
@@ -6739,7 +6941,8 @@
       "era": "帝国主義",
       "difficulty": 1,
       "month": 10,
-      "day": 10
+      "day": 10,
+      "kind": "people"
     },
     {
       "id": "jp-1912-goken",
@@ -6792,7 +6995,8 @@
       "era": "大正",
       "difficulty": 1,
       "month": 8,
-      "day": 23
+      "day": 23,
+      "kind": "battle"
     },
     {
       "id": "w-1914-ww1",
@@ -6803,7 +7007,8 @@
       "era": "二つの大戦",
       "difficulty": 1,
       "month": 7,
-      "day": 28
+      "day": 28,
+      "kind": "battle"
     },
     {
       "id": "jp-1915-nijuikkajo",
@@ -6814,7 +7019,8 @@
       "era": "大正",
       "difficulty": 1,
       "month": 1,
-      "day": 18
+      "day": 18,
+      "kind": "diplomacy"
     },
     {
       "id": "jp-1916-minponshugi",
@@ -6845,7 +7051,8 @@
       "era": "二つの大戦",
       "difficulty": 1,
       "month": 3,
-      "day": 8
+      "day": 8,
+      "kind": "people"
     },
     {
       "id": "w-1917-usenters",
@@ -6878,7 +7085,8 @@
       "era": "大正",
       "difficulty": 1,
       "month": 9,
-      "day": 29
+      "day": 29,
+      "kind": "power"
     },
     {
       "id": "jp-1918-kome",
@@ -6889,7 +7097,8 @@
       "era": "大正",
       "difficulty": 1,
       "month": 7,
-      "day": 23
+      "day": 23,
+      "kind": "people"
     },
     {
       "id": "jp-1918-siberia",
@@ -6900,7 +7109,8 @@
       "era": "大正",
       "difficulty": 1,
       "month": 8,
-      "day": 2
+      "day": 2,
+      "kind": "battle"
     },
     {
       "id": "w-1918-ww1end",
@@ -6911,7 +7121,8 @@
       "era": "二つの大戦",
       "difficulty": 1,
       "month": 11,
-      "day": 11
+      "day": 11,
+      "kind": "battle"
     },
     {
       "id": "jp-1919-sanichi",
@@ -6922,7 +7133,8 @@
       "era": "大正",
       "difficulty": 1,
       "month": 3,
-      "day": 1
+      "day": 1,
+      "kind": "people"
     },
     {
       "id": "w-1919-amritsar",
@@ -6944,7 +7156,8 @@
       "era": "二つの大戦",
       "difficulty": 1,
       "month": 5,
-      "day": 4
+      "day": 4,
+      "kind": "people"
     },
     {
       "id": "w-1919-versailles",
@@ -6955,7 +7168,8 @@
       "era": "二つの大戦",
       "difficulty": 1,
       "month": 6,
-      "day": 28
+      "day": 28,
+      "kind": "diplomacy"
     },
     {
       "id": "w-1919-weimar",
@@ -6966,7 +7180,8 @@
       "era": "二つの大戦",
       "difficulty": 1,
       "month": 8,
-      "day": 11
+      "day": 11,
+      "kind": "law"
     },
     {
       "id": "jp-1920-kokusairenmei",
@@ -6999,7 +7214,8 @@
       "era": "二つの大戦",
       "difficulty": 1,
       "month": 1,
-      "day": 10
+      "day": 10,
+      "kind": "diplomacy"
     },
     {
       "id": "jp-1921-washington",
@@ -7043,7 +7259,8 @@
       "era": "大正",
       "difficulty": 1,
       "month": 3,
-      "day": 3
+      "day": 3,
+      "kind": "people"
     },
     {
       "id": "w-1922-ussr",
@@ -7064,7 +7281,8 @@
       "category": "world",
       "era": "二つの大戦",
       "difficulty": 1,
-      "month": 10
+      "month": 10,
+      "kind": "power"
     },
     {
       "id": "jp-1923-kanto",
@@ -7075,7 +7293,8 @@
       "era": "大正",
       "difficulty": 1,
       "month": 9,
-      "day": 1
+      "day": 1,
+      "kind": "disaster"
     },
     {
       "id": "w-1923-turkey",
@@ -7108,7 +7327,8 @@
       "era": "大正",
       "difficulty": 1,
       "month": 4,
-      "day": 22
+      "day": 22,
+      "kind": "law"
     },
     {
       "id": "jp-1925-futsu",
@@ -7119,7 +7339,8 @@
       "era": "大正",
       "difficulty": 1,
       "month": 5,
-      "day": 5
+      "day": 5,
+      "kind": "law"
     },
     {
       "id": "jp-1925-radio",
@@ -7130,7 +7351,8 @@
       "era": "大正",
       "difficulty": 1,
       "month": 3,
-      "day": 22
+      "day": 22,
+      "kind": "progress"
     },
     {
       "id": "w-1925-locarno",
@@ -7204,7 +7426,8 @@
       "category": "world",
       "era": "二つの大戦",
       "difficulty": 1,
-      "month": 10
+      "month": 10,
+      "kind": "economy"
     },
     {
       "id": "w-1928-kellogg",
@@ -7245,7 +7468,8 @@
       "era": "二つの大戦",
       "difficulty": 1,
       "month": 10,
-      "day": 24
+      "day": 24,
+      "kind": "economy"
     },
     {
       "id": "jp-1930-kinkaikin",
@@ -7278,7 +7502,8 @@
       "era": "インド",
       "difficulty": 1,
       "month": 3,
-      "day": 12
+      "day": 12,
+      "kind": "people"
     },
     {
       "id": "jp-1931-manshu",
@@ -7289,7 +7514,8 @@
       "era": "昭和戦前",
       "difficulty": 1,
       "month": 9,
-      "day": 18
+      "day": 18,
+      "kind": "battle"
     },
     {
       "id": "jp-1932-goichigo",
@@ -7300,7 +7526,8 @@
       "era": "昭和戦前",
       "difficulty": 1,
       "month": 5,
-      "day": 15
+      "day": 15,
+      "kind": "battle"
     },
     {
       "id": "jp-1932-manchukuo",
@@ -7311,7 +7538,8 @@
       "era": "昭和戦前",
       "difficulty": 1,
       "month": 3,
-      "day": 1
+      "day": 1,
+      "kind": "power"
     },
     {
       "id": "w-1932-saudi",
@@ -7344,7 +7572,8 @@
       "era": "昭和戦前",
       "difficulty": 1,
       "month": 3,
-      "day": 27
+      "day": 27,
+      "kind": "diplomacy"
     },
     {
       "id": "w-1933-hitler",
@@ -7355,7 +7584,8 @@
       "era": "二つの大戦",
       "difficulty": 1,
       "month": 1,
-      "day": 30
+      "day": 30,
+      "kind": "power"
     },
     {
       "id": "w-1933-newdeal",
@@ -7366,7 +7596,8 @@
       "era": "二つの大戦",
       "difficulty": 1,
       "month": 3,
-      "day": 9
+      "day": 9,
+      "kind": "economy"
     },
     {
       "id": "jp-1934-manchuria",
@@ -7409,7 +7640,8 @@
       "era": "昭和戦前",
       "difficulty": 1,
       "month": 2,
-      "day": 26
+      "day": 26,
+      "kind": "battle"
     },
     {
       "id": "w-1936-spanishcivil",
@@ -7431,7 +7663,8 @@
       "era": "昭和戦前",
       "difficulty": 1,
       "month": 7,
-      "day": 7
+      "day": 7,
+      "kind": "battle"
     },
     {
       "id": "jp-1938-kokkasodoin",
@@ -7442,7 +7675,8 @@
       "era": "昭和戦前",
       "difficulty": 1,
       "month": 4,
-      "day": 1
+      "day": 1,
+      "kind": "law"
     },
     {
       "id": "w-1938-munich",
@@ -7486,7 +7720,8 @@
       "era": "二つの大戦",
       "difficulty": 1,
       "month": 9,
-      "day": 1
+      "day": 1,
+      "kind": "battle"
     },
     {
       "id": "jp-1940-sangoku",
@@ -7497,7 +7732,8 @@
       "era": "昭和戦前",
       "difficulty": 1,
       "month": 9,
-      "day": 27
+      "day": 27,
+      "kind": "diplomacy"
     },
     {
       "id": "jp-1940-taisei",
@@ -7508,7 +7744,8 @@
       "era": "昭和戦前",
       "difficulty": 1,
       "month": 10,
-      "day": 12
+      "day": 12,
+      "kind": "power"
     },
     {
       "id": "w-1940-paris",
@@ -7530,7 +7767,8 @@
       "era": "昭和戦前",
       "difficulty": 1,
       "month": 4,
-      "day": 13
+      "day": 13,
+      "kind": "diplomacy"
     },
     {
       "id": "jp-1941-taiheiyo",
@@ -7541,7 +7779,8 @@
       "era": "昭和戦前",
       "difficulty": 1,
       "month": 12,
-      "day": 8
+      "day": 8,
+      "kind": "battle"
     },
     {
       "id": "w-1941-atlantic",
@@ -7640,7 +7879,8 @@
       "era": "昭和戦後",
       "difficulty": 1,
       "month": 12,
-      "day": 17
+      "day": 17,
+      "kind": "law"
     },
     {
       "id": "jp-1945-genbaku",
@@ -7651,7 +7891,8 @@
       "era": "昭和戦前",
       "difficulty": 1,
       "month": 8,
-      "day": 6
+      "day": 6,
+      "kind": "battle"
     },
     {
       "id": "jp-1945-godai",
@@ -7673,7 +7914,8 @@
       "era": "昭和戦後",
       "difficulty": 1,
       "month": 8,
-      "day": 14
+      "day": 14,
+      "kind": "diplomacy"
     },
     {
       "id": "jp-1945-tokyokushu",
@@ -7684,7 +7926,8 @@
       "era": "昭和戦前",
       "difficulty": 1,
       "month": 3,
-      "day": 10
+      "day": 10,
+      "kind": "battle"
     },
     {
       "id": "jp-1945-soviet",
@@ -7695,7 +7938,8 @@
       "era": "昭和戦前",
       "difficulty": 1,
       "month": 8,
-      "day": 8
+      "day": 8,
+      "kind": "battle"
     },
     {
       "id": "jp-1945-okinawa",
@@ -7706,7 +7950,8 @@
       "era": "昭和戦前",
       "difficulty": 1,
       "month": 4,
-      "day": 1
+      "day": 1,
+      "kind": "battle"
     },
     {
       "id": "w-1945-germansurrender",
@@ -7750,7 +7995,8 @@
       "era": "二つの大戦",
       "difficulty": 1,
       "month": 10,
-      "day": 24
+      "day": 24,
+      "kind": "diplomacy"
     },
     {
       "id": "w-1945-yalta",
@@ -7783,7 +8029,8 @@
       "era": "昭和戦後",
       "difficulty": 1,
       "month": 11,
-      "day": 3
+      "day": 3,
+      "kind": "law"
     },
     {
       "id": "jp-1946-nochi",
@@ -7792,7 +8039,8 @@
       "note": "地主の土地を国が買い上げ小作人に安く売った。多くの自作農が生まれ、農村の構造が変わる。",
       "category": "japan",
       "era": "昭和戦後",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "law"
     },
     {
       "id": "jp-1946-tokyosaiban",
@@ -7812,7 +8060,8 @@
       "note": "持株会社が整理され、翌年には独占禁止法も定められた。農地改革と並ぶ経済の民主化。",
       "category": "japan",
       "era": "昭和戦後",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "law"
     },
     {
       "id": "jp-1946-ningen",
@@ -7845,7 +8094,8 @@
       "era": "昭和戦後",
       "difficulty": 1,
       "month": 5,
-      "day": 3
+      "day": 3,
+      "kind": "law"
     },
     {
       "id": "jp-1947-rodokijun",
@@ -7867,7 +8117,8 @@
       "era": "インド",
       "difficulty": 1,
       "month": 8,
-      "day": 15
+      "day": 15,
+      "kind": "power"
     },
     {
       "id": "w-1947-trumandoctrine",
@@ -7977,7 +8228,8 @@
       "era": "昭和戦後",
       "difficulty": 1,
       "month": 11,
-      "day": 3
+      "day": 3,
+      "kind": "progress"
     },
     {
       "id": "w-1949-nato",
@@ -7999,7 +8251,8 @@
       "era": "現代",
       "difficulty": 1,
       "month": 10,
-      "day": 1
+      "day": 1,
+      "kind": "power"
     },
     {
       "id": "w-1949-germansplit",
@@ -8030,7 +8283,8 @@
       "era": "現代",
       "difficulty": 1,
       "month": 6,
-      "day": 25
+      "day": 25,
+      "kind": "battle"
     },
     {
       "id": "jp-1951-sanfrancisco",
@@ -8041,7 +8295,8 @@
       "era": "昭和戦後",
       "difficulty": 1,
       "month": 9,
-      "day": 8
+      "day": 8,
+      "kind": "diplomacy"
     },
     {
       "id": "jp-1951-anpo",
@@ -8052,7 +8307,8 @@
       "era": "昭和戦後",
       "difficulty": 1,
       "month": 9,
-      "day": 8
+      "day": 8,
+      "kind": "diplomacy"
     },
     {
       "id": "w-1951-iranoil",
@@ -8084,7 +8340,8 @@
       "era": "昭和戦後",
       "difficulty": 1,
       "month": 4,
-      "day": 28
+      "day": 28,
+      "kind": "power"
     },
     {
       "id": "jp-1953-terebi",
@@ -8148,7 +8405,8 @@
       "note": "神武景気を皮切りに、約20年にわたり年平均10%前後の成長が続いた。",
       "category": "japan",
       "era": "昭和戦後",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "economy"
     },
     {
       "id": "w-1955-bandung",
@@ -8181,7 +8439,8 @@
       "era": "昭和戦後",
       "difficulty": 1,
       "month": 12,
-      "day": 18
+      "day": 18,
+      "kind": "diplomacy"
     },
     {
       "id": "jp-1956-nisso",
@@ -8192,7 +8451,8 @@
       "era": "昭和戦後",
       "difficulty": 1,
       "month": 10,
-      "day": 19
+      "day": 19,
+      "kind": "diplomacy"
     },
     {
       "id": "w-1956-hungary",
@@ -8269,7 +8529,8 @@
       "era": "昭和戦後",
       "difficulty": 1,
       "month": 1,
-      "day": 19
+      "day": 19,
+      "kind": "diplomacy"
     },
     {
       "id": "jp-1960-shotokubaizo",
@@ -8300,7 +8561,8 @@
       "era": "現代",
       "difficulty": 1,
       "month": 8,
-      "day": 13
+      "day": 13,
+      "kind": "power"
     },
     {
       "id": "w-1962-cuba",
@@ -8355,7 +8617,8 @@
       "era": "昭和戦後",
       "difficulty": 1,
       "month": 10,
-      "day": 10
+      "day": 10,
+      "kind": "progress"
     },
     {
       "id": "jp-1964-shinkansen",
@@ -8366,7 +8629,8 @@
       "era": "昭和戦後",
       "difficulty": 1,
       "month": 10,
-      "day": 1
+      "day": 1,
+      "kind": "progress"
     },
     {
       "id": "jp-1965-nikkan",
@@ -8388,7 +8652,8 @@
       "era": "現代",
       "difficulty": 1,
       "month": 2,
-      "day": 7
+      "day": 7,
+      "kind": "battle"
     },
     {
       "id": "w-1966-culturalrevolution",
@@ -8496,7 +8761,8 @@
       "era": "現代",
       "difficulty": 1,
       "month": 7,
-      "day": 20
+      "day": 20,
+      "kind": "progress"
     },
     {
       "id": "jp-1970-banpaku",
@@ -8540,7 +8806,8 @@
       "era": "昭和戦後",
       "difficulty": 1,
       "month": 9,
-      "day": 29
+      "day": 29,
+      "kind": "diplomacy"
     },
     {
       "id": "jp-1972-okinawa",
@@ -8551,7 +8818,8 @@
       "era": "昭和戦後",
       "difficulty": 1,
       "month": 5,
-      "day": 15
+      "day": 15,
+      "kind": "power"
     },
     {
       "id": "w-1972-nixon",
@@ -8572,7 +8840,8 @@
       "category": "japan",
       "era": "昭和戦後",
       "difficulty": 1,
-      "month": 10
+      "month": 10,
+      "kind": "economy"
     },
     {
       "id": "w-1973-chile",
@@ -8711,7 +8980,8 @@
       "note": "低金利のもとで、地価と株価が実体を離れて高騰した。値上がりを当てにした投資が過熱していく。",
       "category": "japan",
       "era": "昭和戦後",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "economy"
     },
     {
       "id": "jp-1987-jr",
@@ -8766,7 +9036,8 @@
       "era": "現代",
       "difficulty": 1,
       "month": 11,
-      "day": 9
+      "day": 9,
+      "kind": "power"
     },
     {
       "id": "w-1989-malta",
@@ -8777,7 +9048,8 @@
       "era": "現代",
       "difficulty": 1,
       "month": 12,
-      "day": 3
+      "day": 3,
+      "kind": "diplomacy"
     },
     {
       "id": "w-1989-tiananmen",
@@ -8799,7 +9071,8 @@
       "era": "現代",
       "difficulty": 1,
       "month": 10,
-      "day": 3
+      "day": 3,
+      "kind": "power"
     },
     {
       "id": "jp-1991-bubble-end",
@@ -8808,7 +9081,8 @@
       "note": "地価と株価が急落し、不良債権を抱えた金融機関が傷んだ。長い低成長に入る。",
       "category": "japan",
       "era": "平成",
-      "difficulty": 1
+      "difficulty": 1,
+      "kind": "economy"
     },
     {
       "id": "w-1991-gulf",
@@ -8830,7 +9104,8 @@
       "era": "現代",
       "difficulty": 1,
       "month": 12,
-      "day": 25
+      "day": 25,
+      "kind": "power"
     },
     {
       "id": "jp-1992-pko",
@@ -8874,7 +9149,8 @@
       "era": "現代",
       "difficulty": 1,
       "month": 11,
-      "day": 1
+      "day": 1,
+      "kind": "diplomacy"
     },
     {
       "id": "w-1994-apartheid",
@@ -8885,7 +9161,8 @@
       "era": "アフリカ",
       "difficulty": 1,
       "month": 4,
-      "day": 27
+      "day": 27,
+      "kind": "law"
     },
     {
       "id": "jp-1995-hanshin",
@@ -8896,7 +9173,8 @@
       "era": "平成",
       "difficulty": 1,
       "month": 1,
-      "day": 17
+      "day": 17,
+      "kind": "disaster"
     },
     {
       "id": "w-1995-wto",
@@ -8951,7 +9229,8 @@
       "era": "現代",
       "difficulty": 1,
       "month": 9,
-      "day": 11
+      "day": 11,
+      "kind": "battle"
     },
     {
       "id": "jp-2002-nicchosen",
@@ -9006,7 +9285,8 @@
       "era": "平成",
       "difficulty": 1,
       "month": 3,
-      "day": 11
+      "day": 11,
+      "kind": "disaster"
     },
     {
       "id": "w-2011-arabspring",

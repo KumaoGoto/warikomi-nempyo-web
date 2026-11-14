@@ -25,10 +25,10 @@
   <meta property="og:image:alt" content="わりこみ年表の題字と、札を外した瞬間の画面">
   <meta name="twitter:card" content="summary_large_image">
   <!-- ホーム画面に置いたとき -->
-  <meta name="theme-color" content="#0B1B2B">
+  <meta name="theme-color" content="#FFF8EE">
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
   <meta name="apple-mobile-web-app-title" content="わりこみ年表">
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
@@ -36,13 +36,13 @@
   <style>
     /* 字の大きさは端末やブラウザの設定で変えない（Flutter は html の字の大きさから倍率を決める。箱からはみ出さないように） */
     html { font-size: 16px; -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
-    html, body { margin: 0; height: 100%; background: #0B1B2B; overscroll-behavior: none;
+    html, body { margin: 0; height: 100%; background: #FFF8EE; overscroll-behavior: none;
       -webkit-user-select: none; user-select: none; -webkit-touch-callout: none; }
     /* 名前の入力欄（Flutter の隠れた input）は打てるように。親の none を受け継ぐと iPhone の Safari で字が入らないことがある */
     input, textarea { -webkit-user-select: text; user-select: text; }
     #splash { position: fixed; inset: 0; z-index: 10; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 16px;
-      background: #0B1B2B;
-      font: 400 14px/1.6 "Hiragino Sans", "Noto Sans JP", sans-serif; color: #EDE6D6; text-align: center;
+      background: #FFF8EE;
+      font: 400 14px/1.6 "Hiragino Sans", "Noto Sans JP", sans-serif; color: #2F2A4A; text-align: center;
       transition: opacity .4s cubic-bezier(.2, .8, .2, 1); }
     #splash.done { opacity: 0; pointer-events: none; }
     #splash img { width: 96px; height: 96px; border-radius: 22px; }
@@ -74,7 +74,7 @@
   <noscript>わりこみ年表を遊ぶには JavaScript を有効にしてください。</noscript>
   <script>
     // 組みの印（公開の形では tool/web/stage.py が書く。プログラムは v/<印>/ の箱に入る）
-    window.WARIKOMI_BUILD = '3990644889ab';
+    window.WARIKOMI_BUILD = 'b8df1fedd3d2';
     (function () {
       var text = document.getElementById('splash-text');
       // 読み込めないまま止まったときに、何が起きているかを伝える（幕が下りれば要素ごと消える）
@@ -94,6 +94,6 @@
       }
     };
   </script>
-  <script src="v/3990644889ab/flutter_bootstrap.js" async></script>
+  <script src="v/b8df1fedd3d2/flutter_bootstrap.js" async></script>
 </body>
 </html>
