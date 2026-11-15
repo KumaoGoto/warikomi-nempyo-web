@@ -3,7 +3,7 @@
 // 新しい置き場を作って古い置き場を捨てる。中身の変わっていないファイルは古い置き場から移す（更新のたびに全部を取り直さない）。
 // 公開の形（tool/web/stage.py）では、プログラムは版ごとの箱 v/<VERSION>/ に入り、PRECACHE もその場所に書き換わる。
 
-const VERSION = 'b8df1fedd3d2';
+const VERSION = '805f6f97b42a';
 const PRECACHE = {
   'assets/AssetManifest.bin': 'a86a07f4ad677d80',
   'assets/AssetManifest.bin.json': 'ed4428b82d7de2bc',
@@ -13,26 +13,26 @@ const PRECACHE = {
   'assets/assets/audio/tap.wav': '8dc282ca3f14656f',
   'assets/assets/audio/wrong.wav': '0318d5c8eeec9845',
   'assets/assets/data/events.json': 'c6d542a4bb8efd9e',
-  'assets/assets/fonts/MPLUSRounded1c-Bold.ttf': '0e156834912decab',
-  'assets/assets/fonts/MPLUSRounded1c-Regular.ttf': 'afc1950d0b5abeef',
-  'assets/assets/fonts/MPLUSRounded1cHeading-Bold.ttf': 'ecdb3f9287983b3a',
-  'assets/assets/fonts/MPLUSRounded1cHeading-Regular.ttf': '65dc7a1036ebb363',
+  'assets/assets/fonts/MPLUSRounded1c-Bold.ttf': '67ef546c660d5e9b',
+  'assets/assets/fonts/MPLUSRounded1c-Regular.ttf': '9697ae80ff759e8b',
+  'assets/assets/fonts/MPLUSRounded1cHeading-Bold.ttf': 'fc59a616b760fb77',
+  'assets/assets/fonts/MPLUSRounded1cHeading-Regular.ttf': '0cb6542289be6e74',
   'assets/assets/fonts/NotoSansJP-Regular.ttf': '5fe4626836d88d63',
   'assets/assets/fonts/NotoSansJP-SemiBold.ttf': 'f9b253a5b4817621',
   'assets/assets/ranking/ng_words.json': 'e2fdd6e04cfbaa42',
-  'assets/fonts/MaterialIcons-Regular.otf': 'e3ea7f1505f8b0fd',
+  'assets/fonts/MaterialIcons-Regular.otf': 'd67e56c2999e8606',
   'assets/shaders/ink_sparkle.frag': '2dca5ab93d4ec29e',
   'assets/shaders/stretch_effect.frag': 'ab412f07a5b9b50b',
-  'v/b8df1fedd3d2/canvaskit/canvaskit.js': '7361b744487f9826',
-  'v/b8df1fedd3d2/canvaskit/canvaskit.wasm': '6bdfaa51c76845c0',
-  'v/b8df1fedd3d2/flutter_bootstrap.js': '997993cdd0555f07',
+  'v/805f6f97b42a/canvaskit/canvaskit.js': '7361b744487f9826',
+  'v/805f6f97b42a/canvaskit/canvaskit.wasm': '6bdfaa51c76845c0',
+  'v/805f6f97b42a/flutter_bootstrap.js': '997993cdd0555f07',
   'icons/apple-touch-icon.png': '5405d6ab9e0c9a4d',
   'icons/favicon-32.png': '2268911fa6fee617',
   'icons/icon-192.png': 'b198a225faf31279',
   'icons/icon-512.png': '72903782cc3f28c8',
   'icons/icon-maskable-512.png': '05f8a103e19511da',
-  'index.html': 'b8df1fedd3d2',
-  'v/b8df1fedd3d2/main.dart.js': '196217098e61482d',
+  'index.html': '805f6f97b42a',
+  'v/805f6f97b42a/main.dart.js': 'ae97c7a71a49db48',
   'manifest.webmanifest': '32ddf71263565a1e',
 };
 // @@PRECACHE_END
